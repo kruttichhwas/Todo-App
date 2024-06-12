@@ -4,4 +4,4 @@ This is a simple To Do app using ReactJS and it also uses the localStorage so th
 
 Below is the link:
 
-- [ToDo App](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md)
+- [ToDo App](https://2dwoapp.netlify.app/)
